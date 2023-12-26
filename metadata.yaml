@@ -1,0 +1,40 @@
+_repo: The-yes-men-of-Venus_72305
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+creator:
+  author:
+    agent_name: Goulart, Ron
+    alias: Goulart, Ronald Joseph
+    birthdate: 1933
+    deathdate: 2022
+    gutenberg_agent_id: '46474'
+    url: http://www.gutenberg.org/2009/agents/46474
+    wikipedia: https://en.wikipedia.org/wiki/Ron_Goulart
+description: ''
+gutenberg_issued: '2023-12-03'
+identifiers:
+  gutenberg: '72305'
+language: en
+pgterms:marc905: 20231125060153goulart
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The yes men of Venus
+url: http://www.gutenberg.org/ebooks/72305
